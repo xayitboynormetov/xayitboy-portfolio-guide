@@ -20,7 +20,7 @@ const Contact = () => {
     },
     {
       icon: <MapPin className="h-6 w-6" />,
-      title: "git hub",
+      title: "manzil",
       value: "O'zbekiston",
       link: "#",
       color: "from-green-500 to-teal-500",

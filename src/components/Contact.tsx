@@ -16,7 +16,7 @@ const Contact = () => {
     color: "from-blue-500 to-cyan-500"
   }, {
     icon: <MapPin className="h-6 w-6" />,
-    title: "manzil",
+    title: "Manzil",
     value: "O'zbekiston",
     link: "#",
     color: "from-green-500 to-teal-500"
